@@ -1,0 +1,16 @@
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/bin/Debug/netstandard2.0/Testsubscribecallback.deps.json
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/bin/Debug/netstandard2.0/Testsubscribecallback.dll
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/bin/Debug/netstandard2.0/ref/Testsubscribecallback.dll
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/bin/Debug/netstandard2.0/Testsubscribecallback.pdb
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Views/InfoHostView.xaml.g.cs
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Views/InfoView.xaml.g.cs
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Testsubscribecallback.csproj.CoreCompileInputs.cache
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Testsubscribecallback.AssemblyInfoInputs.cache
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Testsubscribecallback.AssemblyInfo.cs
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Testsubscribecallback.dll
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/ref/Testsubscribecallback.dll
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Testsubscribecallback.pdb
+/Users/chris.tyner/Projects/Testsubscribecallback/Testsubscribecallback/obj/Debug/netstandard2.0/Testsubscribecallback.csprojAssemblyReference.cache

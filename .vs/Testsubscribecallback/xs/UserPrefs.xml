@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FB393F14-8C00-4CF9-95CD-19B5092311A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Testsubscribecallback.Android PreferredExecutionTarget="Android.pixel_3_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testsubscribecallback/Views/InfoView.xaml">
+    <Files>
+      <File FileName="Testsubscribecallback/AppShell.xaml.cs" Line="20" Column="54" />
+      <File FileName="Testsubscribecallback/Views/InfoView.xaml.cs" Line="15" Column="1" />
+      <File FileName="Testsubscribecallback/Views/InfoHostView.xaml.cs" Line="13" Column="54" />
+      <File FileName="Testsubscribecallback/Views/InfoHostView.xaml" Line="11" Column="45" />
+      <File FileName="Testsubscribecallback/ViewModels/InfoViewModel.cs" Line="33" Column="14" />
+      <File FileName="Testsubscribecallback/AppShell.xaml" Line="17" Column="53" />
+      <File FileName="Testsubscribecallback/ViewModels/InfoHostViewModel.cs" Line="54" Column="41" />
+      <File FileName="Testsubscribecallback/Services/ActiveFilters.cs" Line="18" Column="50" />
+      <File FileName="Testsubscribecallback.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Testsubscribecallback/ViewModels/BaseViewModel.cs" Line="6" Column="43" />
+      <File FileName="Testsubscribecallback/Views/InfoView.xaml" Line="11" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testsubscribecallback" expanded="True">
+            <Node name="Testsubscribecallback" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="InfoView.xaml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Testsubscribecallback.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Testsubscribecallback.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AE2565F5-4075-4FB7-B0C2-A568C28C1249" />
+</Properties>
